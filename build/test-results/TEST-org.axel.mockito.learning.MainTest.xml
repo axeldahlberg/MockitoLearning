@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="org.axel.mockito.learning.MainTest" tests="6" failures="0" errors="0" timestamp="2014-08-21T09:51:05" hostname="axel-HP-EliteBook-840-G1" time="0.148">
+<testsuite name="org.axel.mockito.learning.MainTest" tests="11" failures="0" errors="0" timestamp="2014-08-21T10:46:02" hostname="axel-HP-EliteBook-840-G1" time="0.157">
   <properties/>
-  <testcase name="howAboutSomeStubbing" classname="org.axel.mockito.learning.MainTest" time="0.119"/>
-  <testcase name="testList" classname="org.axel.mockito.learning.MainTest" time="0.01"/>
-  <testcase name="argumentMatchers" classname="org.axel.mockito.learning.MainTest" time="0.004"/>
-  <testcase name="verifyExactNumberOfIncovations" classname="org.axel.mockito.learning.MainTest" time="0.002"/>
-  <testcase name="StubboingVoidMethodsWithExceptions" classname="org.axel.mockito.learning.MainTest" time="0.002"/>
-  <testcase name="verificationInOrder" classname="org.axel.mockito.learning.MainTest" time="0.008"/>
+  <testcase name="howAboutSomeStubbing" classname="org.axel.mockito.learning.MainTest" time="0.095"/>
+  <testcase name="argumentMatchers" classname="org.axel.mockito.learning.MainTest" time="0.002"/>
+  <testcase name="verifyExactNumberOfIncovations" classname="org.axel.mockito.learning.MainTest" time="0.001"/>
+  <testcase name="StubboingVoidMethodsWithExceptions" classname="org.axel.mockito.learning.MainTest" time="0.001"/>
+  <testcase name="verificationInOrder" classname="org.axel.mockito.learning.MainTest" time="0.015"/>
+  <testcase name="makingSureInteractionSNeverHappenedOnMock" classname="org.axel.mockito.learning.MainTest" time="0.002"/>
+  <testcase name="verifyRedundantInvocation" classname="org.axel.mockito.learning.MainTest" time="0.0"/>
+  <testcase name="shorthHandMocksCreation" classname="org.axel.mockito.learning.MainTest" time="0.0"/>
+  <testcase name="spyingOnRealObjects" classname="org.axel.mockito.learning.MainTest" time="0.037"/>
+  <testcase name="resettingMocks" classname="org.axel.mockito.learning.MainTest" time="0.0"/>
+  <testcase name="testList" classname="org.axel.mockito.learning.MainTest" time="0.0"/>
   <system-out><![CDATA[first
 element
+one
+100
 ]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
